@@ -1,22 +1,22 @@
-# Fernando — Dados, Design & Estratégia
+# Fernando | Data, Design & Strategy
 
-Portfólio pessoal apresentando projetos e serviços nas áreas de análise de dados, design estratégico, tráfego pago, social media e automação.
+Personal portfolio showcasing projects and services in data analysis, strategic design, paid media, social media and automation.
 
-**[Acessar o Portfólio](https://fexndev.github.io/fernando-portfolio/)**
+**[Open the portfolio](https://fexndev.github.io/fernando-portfolio/)**
 
-## Sobre
+## About
 
-Site single-page com navegação fluida, animações de scroll e design responsivo. Apresenta 5 frentes de atuação com cases reais organizados por categoria.
+Single-page site with smooth navigation, scroll animations and responsive design. It presents 5 areas of work with real cases organised by category.
 
-## Seções
+## Sections
 
-- **Sobre** — trajetória profissional e diferenciais
-- **Serviços** — Dados & Tech, Design & Marca, Tráfego Pago, Social Media, Automação
-- **Portfólio** — cases filtráveis por categoria com descrição e stack de cada projeto
-- **Contato** — links para e-mail, WhatsApp, LinkedIn e GitHub
+- **About**: career path and strengths
+- **Services**: Data & Tech, Design & Brand, Paid Media, Social Media, Automation
+- **Portfolio**: cases filterable by category, with a description and stack for each project
+- **Contact**: links to email, WhatsApp, LinkedIn and GitHub
 
-## Tecnologias
+## Technologies
 
-- HTML, CSS, JavaScript (sem frameworks)
+- HTML, CSS, JavaScript (no frameworks)
 - Google Fonts (Inter + JetBrains Mono)
-- GitHub Pages (hospedagem)
+- GitHub Pages (hosting)

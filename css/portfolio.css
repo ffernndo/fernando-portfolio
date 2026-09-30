@@ -170,7 +170,7 @@
 }
 
 
-/* ── SOBRE ── */
+/* ── ABOUT ── */
 .sobre-grid {
     display: grid; grid-template-columns: 1fr 1fr;
     gap: 3rem; margin-top: 2rem; align-items: start;
@@ -200,7 +200,7 @@
 }
 
 
-/* ── SERVICOS ── */
+/* ── SERVICES ── */
 .servicos-grid {
     display: grid; grid-template-columns: repeat(6, 1fr);
     gap: 1rem; margin-top: 2rem;
@@ -496,7 +496,7 @@
 }
 
 
-/* ── CTA / CONTATO ── */
+/* ── CTA / CONTACT ── */
 .cta {
     padding: 4rem 0 10rem;
     background: transparent;
